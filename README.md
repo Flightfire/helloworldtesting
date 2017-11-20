@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
     <img src="https://cloud.githubusercontent.com/assets/1342803/24797159/52fb0d88-1b90-11e7-85a5-359fff0496a4.png" width="320" alt="MySQL">
     <br>
@@ -21,3 +22,7 @@
         <img src="http://img.shields.io/badge/swift-3.1-brightgreen.svg" alt="Swift 3.1">
     </a>
 </center>
+=======
+# helloworldtesting
+Yup Testing
+>>>>>>> 72a7714346b1398a3db06a0c60a678489a46cfd3
